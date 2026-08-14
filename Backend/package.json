@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "@langchain/google-genai": "^2.2.0",
     "bcrypt": "^5.1.0",
     "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
     "dotenv": "^16.6.1",
     "express": "^5.2.1",
     "express-validator": "^7.3.2",
