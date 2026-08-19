@@ -12,7 +12,7 @@
     "node-mailer": "^0.1.1",
     "nodemon": "^3.1.14"
   },
-  "name": "perplexity",
+  "name": "CLARA.AI",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -23,14 +23,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mayankraj1304/PERPLEXITY.git"
+    "url": "git+https://github.com/Mayankraj1304/CLARA.AI.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/Mayankraj1304/PERPLEXITY/issues"
+    "url": "https://github.com/Mayankraj1304/CLARA.AI/issues"
   },
-  "homepage": "https://github.com/Mayankraj1304/PERPLEXITY#readme"
+  "homepage": "https://github.com/Mayankraj1304/CLARA.AI#readme"
 }

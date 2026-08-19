@@ -1,6 +1,6 @@
-# PERPLEXITY
+# CLARA.AI
 
-A simple Node.js backend for the PERPLEXITY project. This repository contains the server, models, controllers, routes, and basic services used during development.
+A simple Node.js backend for the CLARA.AI project. This repository contains the server, models, controllers, routes, and basic services used during development.
 
 **Project Overview**
 
@@ -58,4 +58,3 @@ npm run dev
 **Contributing**
 
 - Open an issue or submit a pull request. Describe changes and add tests where appropriate.
-
