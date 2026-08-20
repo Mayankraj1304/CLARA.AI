@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@langchain/google-genai": "^2.2.0",
+    "@langchain/mistralai": "^1.2.0",
     "bcrypt": "^5.1.0",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.6",
@@ -8,9 +9,13 @@
     "express": "^5.2.1",
     "express-validator": "^7.3.2",
     "jsonwebtoken": "^9.0.3",
+    "langchain": "^1.5.9",
     "mongoose": "^7.8.12",
+    "morgan": "^1.11.0",
     "node-mailer": "^0.1.1",
-    "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "react-markdown": "^10.1.0",
+    "socket.io": "^4.8.3"
   },
   "name": "CLARA.AI",
   "version": "1.0.0",
